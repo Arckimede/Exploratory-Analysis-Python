@@ -31,10 +31,3 @@ Exploratory data analysis and visualization notebooks in Python using Colab
 - **Purpose:** Analyze the Palmer Penguins dataset with species, measurements, diet, life stage and health metrics. Demonstrates data cleaning, visualization, and basic statistical analysis.
 - **Dataset:** Penguin species measurements and attributes.
 
-please download them from the provided links:
-
-- Retail Transactions: [link to dataset]  
-- TikTok Claims: [link to dataset]  
-- Attack On Titan Reviews: [link to dataset]  
-- Global Musicalities: [link to dataset]  
-- Palmer Penguins: [link to dataset]  
